@@ -1,4 +1,4 @@
 # TP-Initiation-Git
-# Anatole Roché
+# Anatole Roche
 # Lili Cap
 
